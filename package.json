@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/font": "^14.0.4",
+    "@phosphor-icons/react": "^2.0.15",
+    "next": "14.0.4",
+    "pixelarticons": "^1.7.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
